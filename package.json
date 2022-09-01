@@ -23,6 +23,6 @@
   "devDependencies": {
     "ejs": "^3.1.8",
     "html-minifier": "^4.0.0",
-    "markdown": "^0.5.0"
+    "showdown": "^2.1.0"
   }
 }
