@@ -9,9 +9,6 @@
 
 ## github-markdown-css
 
-- https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown.css
-- https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-dark.css
-- https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-light.css
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown.min.css
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-dark.min.css
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-light.min.css
