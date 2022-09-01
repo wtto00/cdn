@@ -43,6 +43,8 @@ jobs:
       # build
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # github pages
       - name: Setup Pages
         uses: actions/configure-pages@v2
