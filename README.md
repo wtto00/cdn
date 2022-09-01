@@ -1,8 +1,10 @@
-# cdn
+# 临时 CDN
 
-临时 CDN
+---
 
-### video
+## video
 
-- https://wtto00.github.io/cdn/video/flv.min.js
-- https://wtto00.github.io/cdn/video/videojs-flvjs.min.js
+非官方库文件
+
+- https://wtto00.github.io/cdn/lib/video-flv/flv.min.js
+- https://wtto00.github.io/cdn/lib/video-flv/videojs-flvjs.min.js

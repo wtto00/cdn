@@ -1,0 +1,28 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "临时CDN",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtto00/cdn.git"
+  },
+  "keywords": [
+    "cdn"
+  ],
+  "author": "wtto00 <wtto00@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtto00/cdn/issues"
+  },
+  "homepage": "https://github.com/wtto00/cdn#readme",
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "html-minifier": "^4.0.0",
+    "markdown": "^0.5.0"
+  }
+}
