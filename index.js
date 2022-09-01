@@ -13,11 +13,7 @@ const res = await octokit.request('POST /markdown', {
     accept: 'application/vnd.github+json',
   },
   text: mdContent,
-  mode: 'gfm',
-  context: 'wtto00/cdn',
 });
-
-console.log(res);
 
 if (res.status === 200) {
   const mdHtml = res.data;
