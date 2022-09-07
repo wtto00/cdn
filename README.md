@@ -6,6 +6,7 @@
 
 - https://wtto00.github.io/cdn/lib/video-flv/flv.min.js
 - https://wtto00.github.io/cdn/lib/video-flv/videojs-flvjs.min.js
+- https://wtto00.github.io/cdn/lib/video-flv/rsc-video-player-en.js
 
 ## github-markdown-css
 
