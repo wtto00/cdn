@@ -13,3 +13,7 @@
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown.min.css
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-dark.min.css
 - https://wtto00.github.io/cdn/lib/github-markdown-css/github-markdown-light.min.css
+
+## windows
+
+- https://wtto00.github.io/cdn/windows/nolsp.exe (for [#4177](https://github.com/microsoft/WSL/issues/4177))
