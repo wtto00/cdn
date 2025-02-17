@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/wtto00/cdn#readme",
   "devDependencies": {
-    "@octokit/core": "^6.1.2",
+    "@octokit/core": "^6.1.4",
     "ejs": "^3.1.8",
     "html-minifier": "^4.0.0"
   },
